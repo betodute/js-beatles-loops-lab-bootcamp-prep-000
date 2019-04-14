@@ -4,5 +4,5 @@ function theBeatlesPlay(musicians, instruments) {
 for (var i = 0; i < musicians.length; i++) {
 storageArray.push(`${musicians} plays ${guitar}`);
 }
-return allMusicians;
+return storageArray;
 }
