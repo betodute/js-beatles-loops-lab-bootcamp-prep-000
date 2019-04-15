@@ -7,5 +7,6 @@ return storageArray;
 }
 
 function johnLennonFacts(facts) {
-  
+  while (i > facts.length)
+  {var i = 0, i++
 }
