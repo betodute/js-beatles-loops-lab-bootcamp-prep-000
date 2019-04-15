@@ -8,6 +8,8 @@ return storageArray;
 
 function johnLennonFacts(facts) {
   var storageArray2 = [];
-  var count = 0
-  while (i > facts.length)
+  var count = 0;
+  while (i > facts.length) {
+  storageArray2.push()  
+  }
 }
