@@ -10,7 +10,7 @@ function johnLennonFacts(facts) {
   var storageArray2 = [];
   var count = 0;
   while (count > facts.length) {
-  storageArray2.push(facts[count]+"!!!");
+  storageArray2.push(facts[count] + "!!!");
   count++;
   }
   return storageArray2;
