@@ -9,7 +9,7 @@ return storageArray;
 function johnLennonFacts(facts) {
   var storageArray2 = [];
   var count = 0;
-  while (i > facts.length) {
+  while (count > facts.length) {
   storageArray2.push()  
   }
 }
