@@ -5,3 +5,7 @@ storageArray.push(musicians[i] + " plays " + instruments[i]);
 }
 return storageArray;
 }
+
+function johnLennonFacts(facts) {
+  
+}
